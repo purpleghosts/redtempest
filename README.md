@@ -40,7 +40,6 @@ Red Tempest offers a powerful toolset for red teams looking to maintain anonymit
 ## Usage
 
 Each module in the suite can be executed independently. Here are some examples:
-
     ```sh
     python red-tempest-c2.py --source-ip <spoofed-ip> --random-mac --delay 10 --destination-c2 <whell-know-c2-list>
     ```
