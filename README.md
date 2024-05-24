@@ -6,14 +6,21 @@ Red Tempest offers a powerful toolset for red teams looking to maintain anonymit
 
 ## Features
 
-- **C2 UDP Traffic Generator**: Generate false Command and Control traffic to known malicious C2 servers.
-- **C2 DNS Resolution Spoofing**: Spoof DNS requests to domains associated with C2 activities.
-- **Kerberoasting Spoofing**: Perform Kerberoasting attacks with spoofed IP addresses.
-- **External Web Attacks via Tor**: Simulate various web attacks using the Tor network for anonymity.
-- **UDP Exfiltration Simulation**: Generate massive UDP traffic to simulate data exfiltration.
-- **Rsyslog False Alerts**: Inject false alert events into Rsyslog.
-- **Network Scanning Simulation**: Simulate network scanning activities with Fake IP.
-- **SNMP Brute Force Attacks**: Perform SNMP brute force attacks with spoofed IP and MAC addresses.
+- **C2 UDP Traffic Generator**: Generate internal false Command and Control traffic to known malicious C2 servers.
+- **C2 DNS Resolution Spoofing**: Spoof internal DNS requests to domains associated with C2 activities.
+- **Kerberoasting Spoofing**: Perform internal Kerberoasting attacks with spoofed IP addresses.
+- **External Web Attacks via Tor**: Simulate external web attacks using the Tor network / Socks for anonymity.
+- **UDP Exfiltration Simulation**: Generate internal massive UDP traffic to external IPs to simulate data exfiltration.
+- **Rsyslog False Alerts**: Inject internal false alert events into Rsyslog services.
+- **Network Scanning Simulation**: Simulate internal network scanning activities with Fake IP.
+- **SNMP Brute Force Attacks**: Perform internal SNMP brute force attacks with spoofed IP and MAC addresses.
+- **Office 365 Authentication Simulation**: Perform external brute force attacks on Office 365 accounts using Tor network / Socks for anonymity.
+- **Malicious Email Injection in Office 365**: Send external fake malicious emails directly into Office 365 tenants using Tor network / Socks for anonymity.
+- **OpenVPN Traffic Simulation**: Generate internal fake OpenVPN UDP traffic to simulate suspicious network activity.
+- **SIP VoIP Traffic Simulation**: Simulate internal SIP requests to generate false VoIP traffic.
+- **LDAP Brute Force Simulation**: Send internal spoofed LDAP AUTH requests over UDP with fake IP and MAC addresses.
+- **Kerberos Brute Force Simulation**: Simulate internal Kerberos brute force attacks with spoofed IP and MAC addresses.
+- **Fortigate VPN-SSL Brute Force Simulation**: Perform external brute force attacks on Fortigate VPN-SSL portals using Tor network / Socks for anonymity.
 
 ## Installation
 
