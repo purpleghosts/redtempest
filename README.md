@@ -29,7 +29,6 @@ Red Tempest offers a powerful toolset for red teams looking to maintain anonymit
     ```sh
     pip install -r requirements.txt
     ```
-    ```
 
 ## Usage
 
