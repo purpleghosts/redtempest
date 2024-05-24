@@ -14,7 +14,6 @@ Red Tempest offers a powerful toolset for red teams looking to maintain anonymit
 - **Rsyslog False Alerts**: Inject false alert events into Rsyslog.
 - **Network Scanning Simulation**: Simulate network scanning activities with Fake IP.
 - **SNMP Brute Force Attacks**: Perform SNMP brute force attacks with spoofed IP and MAC addresses.
-- 
 
 ## Installation
 
