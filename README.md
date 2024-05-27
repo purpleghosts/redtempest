@@ -45,7 +45,7 @@ RedTempest offers a powerful toolset for red teams looking to maintain anonymity
 
 ## Contributing
 
-We welcome contributions to enhance Red Tempest. Please fork the repository and create a pull request with your changes.
+We welcome contributions to enhance RedTempest. Please fork the repository and create a pull request with your changes.
 
 ## License
 
@@ -53,6 +53,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Disclaimer
 
-Red Tempest is intended for educational and ethical testing purposes only. Misuse of this tool for malicious activities is illegal and strictly prohibited.
+RedTempest is intended for educational and ethical testing purposes only. Misuse of this tool for malicious activities is illegal and strictly prohibited.
 
 
