@@ -30,7 +30,7 @@ RedTempest offers a powerful toolset for red teams looking to maintain anonymity
     ```
 2. Navigate to the project directory:
     ```sh
-    cd red-tempest
+    cd redtempest
     ```
 3. Install the required dependencies:
     ```sh
