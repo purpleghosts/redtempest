@@ -26,7 +26,7 @@ RedTempest offers a powerful toolset for red teams looking to maintain anonymity
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/redtempest-lab/red-tempest.git
+    git clone https://github.com/redtempest-lab/redtempest
     ```
 2. Navigate to the project directory:
     ```sh
