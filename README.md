@@ -1,6 +1,6 @@
-# Red Tempest
+# RedTempest
 
-**Red Tempest** is a suite for cybersecurity counterintelligence red team ops, designed to generate false alerts and noise to obscure real attacker activities. Using techniques like IP, MAC spoofing, TOR or SOCKS services, Red Tempest is designed to create credible false signals across various protocols, including C2 UDP traffic, DNS, Kerberos, SNMP and more. The goal is to overflow SOCs and defensive teams with misleading data, enhancing the stealth of offensive operations. 
+**RedTempest** is a suite for cybersecurity counterintelligence red team ops, designed to generate false alerts and noise to obscure real attacker activities. Using techniques like IP, MAC spoofing, TOR or SOCKS services, Red Tempest is designed to create credible false signals across various protocols, including C2 UDP traffic, DNS, Kerberos, SNMP and more. The goal is to overflow SOCs and defensive teams with misleading data, enhancing the stealth of offensive operations. 
 
 Red Tempest offers a powerful toolset for red teams looking to maintain anonymity and increase the complexity of their engagements.
 
